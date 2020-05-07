@@ -11,7 +11,7 @@ $ node screenshot.js <path_to_file_of_urls_separated_by_newline> <path_to_direct
 
 -- so actual usage would look like this --
 
-$ node index.js interesting_urls.txt "./images" 1280 2000
+$ node screenshot.js interesting_urls.txt "./images" 1280 2000
 ```
 You can leave off the width and height and it will default to 800.
 
